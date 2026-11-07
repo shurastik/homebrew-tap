@@ -2,8 +2,8 @@
 class Agk < Formula
   desc "Coding-agent workflow kit for agterm: codex reviews in companion sessions"
   homepage "https://github.com/shurastik/agterm-kit"
-  url "https://github.com/shurastik/agterm-kit/archive/refs/tags/v0.2.0.tar.gz"
-  sha256 "794d046fdbf4f437e7ea5af65c93f0566b8b6a4e5b02b497da37e1e72df5e805"
+  url "https://github.com/shurastik/agterm-kit/archive/refs/tags/v0.3.0.tar.gz"
+  sha256 "e2daf5505fbb6c7aae3c8d3fb9f1e976a10b04d008fca1a512b38b5c7b3dfe1b"
   license "MIT"
 
   depends_on "go" => :build
