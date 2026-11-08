@@ -1,9 +1,9 @@
 # Rendered by scripts/release.sh from agterm-kit's packaging/homebrew/agk.rb.tmpl; edit the template.
 class Agk < Formula
-  desc "Coding-agent workflow kit for agterm: codex reviews in companion sessions"
+  desc "Applier and reviewer companions for coding agents in the agterm terminal"
   homepage "https://github.com/shurastik/agterm-kit"
-  url "https://github.com/shurastik/agterm-kit/archive/refs/tags/v0.3.0.tar.gz"
-  sha256 "e2daf5505fbb6c7aae3c8d3fb9f1e976a10b04d008fca1a512b38b5c7b3dfe1b"
+  url "https://github.com/shurastik/agterm-kit/archive/refs/tags/v0.4.0.tar.gz"
+  sha256 "3f69ca98b17f4e8f4c1733e2164fa44f0ab2f783d799f964f2436619542991e3"
   license "MIT"
 
   depends_on "go" => :build
