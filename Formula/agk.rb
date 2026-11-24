@@ -2,8 +2,8 @@
 class Agk < Formula
   desc "Applier and reviewer companions for coding agents in the agterm terminal"
   homepage "https://github.com/shurastik/agterm-kit"
-  url "https://github.com/shurastik/agterm-kit/archive/refs/tags/v0.6.0.tar.gz"
-  sha256 "309064f17dbb1cbf8ce24f3eb6d0c81e7ddfb11bb5fa6db546cb971bceb393b0"
+  url "https://github.com/shurastik/agterm-kit/archive/refs/tags/v0.7.0.tar.gz"
+  sha256 "294c8966f20cd06648aa757e51fa6ebae722eb3f258b4f9eff40fc3fa5f8fd51"
   license "MIT"
 
   depends_on "go" => :build
